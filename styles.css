@@ -19,13 +19,11 @@ nav ul {
     background-color: #f2f2f2;
     margin: 0%;
     padding: 0;
-    im
-  }
+    }
   h1{
     text-align: #333;
     margin-top: 20px;
     color: pink;
-    font: bold;
   }
   ul{
     text-align: center;
@@ -44,4 +42,16 @@ nav ul {
   button{
     margin: 10px;
   }
- 
+ .image{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+ .description{
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+ }
