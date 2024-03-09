@@ -24,11 +24,14 @@ nav ul {
   h1{
     text-align: #333;
     margin-top: 20px;
+    color: pink;
+    font: bold;
   }
   ul{
     text-align: center;
-    color: #333;
+    color: black;
     margin-top: 20px;
+    font-size: 50px;
   }
   form{
     text-align: center;
